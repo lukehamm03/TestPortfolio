@@ -69,8 +69,8 @@
                 </div>
             </a>
             <!-- R logo for downloading the R code -->
-            <a href="https://github.com/your-repo/MLB_Salaries_Project.R" download class="download-icon">
-                <img src="R-logo.png" alt="Download R Code">
+            <a href="https://github.com/lukehamm03/TestPortfolio/blob/main/MLBSalariesCode.Rmd" download class="download-icon">
+                <img src="R-logo.jpg" alt="Download R Code">
             </a>
         </div>
 
@@ -83,8 +83,8 @@
                 </div>
             </a>
             <!-- R logo for downloading the R code -->
-            <a href="https://github.com/your-repo/Reds_Hackathon.R" download class="download-icon">
-                <img src="R-logo.png" alt="Download R Code">
+            <a href="https://github.com/lukehamm03/TestPortfolio/blob/main/RedsHackathon%20(1).Rmd" download class="download-icon">
+                <img src="R-logo.jpg" alt="Download R Code">
             </a>
         </div>
 
@@ -97,8 +97,8 @@
                 </div>
             </a>
             <!-- Python logo for downloading the Python code -->
-            <a href="https://github.com/your-repo/Fantasy_Football_Player_Value.py" download class="download-icon">
-                <img src="Python-logo.png" alt="Download Python Code">
+            <a href="https://github.com/lukehamm03/TestPortfolio/blob/main/fantasyplayervaluecode.ipynb" download class="download-icon">
+                <img src="Python-logo.jpg" alt="Download Python Code">
             </a>
         </div>
     </section>
